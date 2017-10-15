@@ -8,6 +8,8 @@ The goal of that document is to cut through the myriad possibilities offered by 
 
 ## The Example Files
 
+Live pages &rightarrow; [here](https://weimergeeks.com/bootstrap4/)
+
 A brief description of each example file in this repo:
 
 * *starter_with_CDNs.html* &mdash; A bare-bones file containing all the Bootstrap CSS and JavaScript files as external links (links to [CDNs](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)). You must be online for this file to work. The HTML has one container DIV, but no rows and columns.
