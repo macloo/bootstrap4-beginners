@@ -18,4 +18,6 @@ A brief description of each example file in this repo:
 
 * *grid_example_one_row.html* &mdash; Demo of the full 12-column grid, breaking at each of the five Bootstrap breakpoints (xs, sm, md, lg, xl) to reformat from 12 to 6 to 4 to 3 to 1 column(s) as you resize the window.
 
+* *example_with_added_fonts.html* &mdash; This page uses Google fonts to override the Bootstrap 4 defaults. It also uses responsive images with Bootstrap 4 styles, and flexible column styles as well. The page has an added style sheet that changes only a few things, including all the fonts on the page. Font size using rems is explained in the *added_styles.css* file.
+
 There are many more complex [examples](http://getbootstrap.com/docs/4.0/examples/) at the Bootstrap site.
