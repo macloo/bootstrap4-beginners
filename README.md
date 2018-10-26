@@ -1,4 +1,4 @@
-# Bootstrap 4.0 (beta) for Beginners
+# Bootstrap 4 for Beginners
 
 This is a repo for students to use. See the [Bootstrap](http://getbootstrap.com/) site for latest versions of all files.
 
@@ -14,12 +14,12 @@ A brief description of each example file in this repo:
 
 * *starter_with_CDNs.html* &mdash; A bare-bones file containing all the Bootstrap CSS and JavaScript files as external links (links to [CDNs](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)). You must be online for this file to work. The HTML has one container DIV, but no rows and columns.
 
-* *starter_with_local_files.html* &mdash; The same bare-bones file, but with LOCAL links to all the Bootstrap CSS and JavaScript files. The Bootstrap files are in the */css/* and */js/* folders in this repo. This file works offline. The HTML has one container DIV, but no rows and columns.
+* *starter_with_local_files.html* &mdash; The exact same bare-bones file, but with LOCAL links to all the Bootstrap CSS and JavaScript files (*not* CDNs). The Bootstrap files are in the */css/* and */js/* folders in this repo. This file works offline. The HTML has one container DIV, but no rows and columns.
 
-* *starter_with_row_and_columns.html* &mdash; This page demonstrates the Bootstrap grid, which provides flexible options for page layouts that adapt to any screen size. The HTML has one container DIV, two rows, and several columns.
+* *starter_with_row_and_columns.html* &mdash; This page demonstrates the Bootstrap grid, which provides flexible options for page layouts that adapt to any screen size. The HTML has one container DIV, two rows, and several columns. It uses Bootstrap CSS but no JavaScript.
 
-* *grid_example_one_row.html* &mdash; Demo of the full 12-column grid, breaking at each of the five Bootstrap breakpoints (xs, sm, md, lg, xl) to reformat from 12 to 6 to 4 to 3 to 1 column(s) as you resize the window.
+* *grid_example_one_row.html* &mdash; Demo of the full 12-column grid, breaking at each one of the five Bootstrap breakpoints (xs, sm, md, lg, xl) to reformat from 12 to 6 to 4 to 3 to 1 column(s) as you resize the window. It uses Bootstrap CSS but no JavaScript.
 
-* *example_with_added_fonts.html* &mdash; This page uses Google fonts to override the Bootstrap 4 defaults. It also uses responsive images with Bootstrap 4 styles, and flexible column styles as well. The page has an added style sheet that changes only a few things, including all the fonts on the page. Font size using rems is explained in the *added_styles.css* file.
+* *example_with_added_fonts.html* &mdash; This page uses Google fonts to override the Bootstrap 4 defaults. It also uses responsive images with Bootstrap 4 styles, and flexible column styles as well. The page has *an added style sheet* that changes only a few things, including all the fonts on the page. Font size using rems is explained in the *added_styles.css* file. This page uses Bootstrap CSS, plus *added_styles.css*, but no JavaScript.
 
-There are many more complex [examples](http://getbootstrap.com/docs/4.0/examples/) at the Bootstrap site.
+There are many more complex [examples](http://getbootstrap.com/docs/4.1/examples/) at the Bootstrap site.
