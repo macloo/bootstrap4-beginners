@@ -1,12 +1,12 @@
 # Bootstrap 4 for Beginners
 
-This is a repo for students to use. See the [Bootstrap](http://getbootstrap.com/) site for latest versions of all files.
+This is a repo for students to use. See the [Bootstrap](https://getbootstrap.com/) site for latest versions of all files.
 
 **Current versions in repo:**
 
-* Bootstrap 4.3.1
-* jQuery 3.4.1
-* Popper JS (unversioned 10/15/2019)
+* Bootstrap 4.5.3
+* jQuery 3.5.1
+* Popper JS 2.5.4
 
 My [Bootstrap 4 Introduction](http://bit.ly/mm-bootstrap4) is suitable for students approaching an intermediate level of competency with HTML and CSS.
 
@@ -26,4 +26,4 @@ A brief description of each example file in this repo:
 
 * *grid_example_one_row.html* &mdash; Demo of the full 12-column grid, breaking at each one of the five Bootstrap breakpoints (xs, sm, md, lg, xl) to reformat from 12 to 6 to 4 to 3 to 1 column(s) as you resize the window. It uses Bootstrap CSS but no JavaScript.
 
-There are many more complex [examples](http://getbootstrap.com/docs/4.3/examples/) at the Bootstrap site.
+There are many more complex [examples](http://getbootstrap.com/docs/4.5/examples/) at the Bootstrap site.
